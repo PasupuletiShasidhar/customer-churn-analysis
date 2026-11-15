@@ -109,7 +109,7 @@ These findings show associations and patterns in the data; they do not establish
 ## Project Folder Structure
 
 ```text
-customer-churn-analysis_project/
+customer-churn-analysis/
 │
 ├── Dashboard_Screenshots/
 ├── Documentation/
