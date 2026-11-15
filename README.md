@@ -122,7 +122,7 @@ customer-churn-analysis_project/
 
 ## Project Documentation
 
-The detailed project report is available in the `Documentation` folder in PDF and Word formats.
+The detailed project report is available in the `Documentation` folder in PDF.
 
 ## Future Scope
 
